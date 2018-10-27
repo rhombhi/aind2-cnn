@@ -13,3 +13,4 @@ transfer-learning/.ipynb_checkpoints/
 transfer-learning/.DS_Store
 
 *.best.mine.hdf5
+transfer-learning/*.zip
